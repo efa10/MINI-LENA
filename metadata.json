@@ -1,0 +1,7 @@
+{
+  "name": "FinSight AI",
+  "description": "An intelligent financial document analyzer that provides instant visual summaries, key metrics extraction, and an interactive Q&A assistant for your financial reports.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
